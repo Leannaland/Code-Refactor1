@@ -1,1 +1,2 @@
-# HW12020
+-Restructered Application 
+This is program I restructured existing computer code without changing its external behavior. Code refactoring is intended to improve the design, structure, and/or implementation of the software, while preserving its functionality.https://leannaland.github.io/Code-Refactor1/
